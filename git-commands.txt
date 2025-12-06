@@ -1,7 +1,7 @@
-git config --global user.name 'imad12345'
+git config --global user.name 'your github username'
 # the same username used for github
 
-git config --global user.email 'bimh1997@gmail.com'
+git config --global user.email 'your github email '
 # the same email used for email
 
 git remote add origin https://github.com/imad12345/git-testing.git
@@ -11,3 +11,5 @@ git remote add origin https://github.com/imad12345/git-testing.git
 git remote -v
 # check if the remote repo is good
 
+git config --global credential.helper store
+# save credentials after typing them for the first time
