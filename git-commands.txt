@@ -16,3 +16,10 @@ git config --global credential.helper store
 
 git branch -vv
 # shows the local branch we are on, and shows local other branches and the tracking status for each branch
+
+git branch -r  
+# lists all the other branches created by other contributors
+
+git checkout -b name_branch
+# create branch and go to the created branch
+
