@@ -13,3 +13,6 @@ git remote -v
 
 git config --global credential.helper store
 # save credentials after typing them for the first time
+
+git branch -vv
+# shows the local branch we are on, and shows local other branches and the tracking status for each branch
