@@ -30,3 +30,6 @@ git checkout name_branch
 
 pull request (suggest a modification)
 Workflow ()
+
+git diff
+# show conflicts
