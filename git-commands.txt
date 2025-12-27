@@ -23,3 +23,10 @@ git branch -r
 git checkout -b name_branch
 # create branch and go to the created branch
 
+git branch name_branch
+git checkout name_branch
+# equivalent to (git checkout -b name_branch)
+
+
+pull request (suggest a modification)
+Workflow ()
