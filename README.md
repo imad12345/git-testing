@@ -1,1 +1,1 @@
-Mon repo de pratique
+This project is git practice.
